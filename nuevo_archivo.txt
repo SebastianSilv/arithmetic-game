@@ -1,0 +1,2 @@
+Este es un nuevo archivo de texto creado como parte del taller de Git.
+Contiene texto de ejemplo para practicar el flujo de trabajo con Git y GitHub.
